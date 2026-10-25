@@ -1,0 +1,5 @@
+﻿Si Claude pierde el hilo o abres una conversacion nueva, pegale esto como primer mensaje:
+
+Lee primero mi carpeta del escritorio "CONTEXTO CLAUDE - Sistema de produccion":
+SISTEMA_DE_PRODUCCION.md (como trabajamos) y MASTER_PROMPT_v8.0.txt (las reglas).
+Si hay una serie en curso, su estado esta en CONTEXTO.md (o en la carpeta de la serie).

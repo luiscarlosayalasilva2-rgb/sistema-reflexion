@@ -1,0 +1,59 @@
+{
+ "chars": {
+  "XRAMIRO": {
+   "ficha": "a 68-year-old Mexican-American butcher, short 1.65 m and very stocky, a broad barrel chest, thick forearms, a round tanned face with a big gray mustache, bushy gray eyebrows, kind twinkling brown eyes, thinning gray hair. Wearing a spotless clean white butcher apron with no stains and no blood over a plaid short-sleeve shirt, dark trousers and white rubber boots, a small knife sheath on his belt. Warm, humble, funny expression",
+   "scene": "a short very stocky 68-year-old Mexican-American butcher with a barrel chest, a round tanned face, a big gray mustache and bushy gray eyebrows, wearing a spotless clean white butcher apron with no stains and no blood over a plaid short-sleeve shirt",
+   "traje": "a short very stocky 68-year-old Mexican-American man with a big gray mustache and hair combed flat with water, wearing an old gray funeral suit that is slightly tight, a white shirt, a thin black tie and polished black shoes, with a small yellow flower on his lapel",
+   "joven": "a 18-year-old Mexican young man, short and stocky with a round determined face, a thin first mustache, black hair, wearing a faded plaid shirt, worn jeans and old sneakers, carrying a small cloth bundle and a folded butcher apron under his arm"
+  },
+  "ZFERNANDA": {
+   "ficha": "a 42-year-old Mexican-American woman, medium height with a soft curvy figure, shoulder-length wavy brown hair, tired kind brown eyes with dark circles, a small frown of worry. Wearing a modest olive-green cardigan over a cream blouse, dark jeans and flat shoes, a small silver cross necklace. Guilty, anxious, tender expression",
+   "scene": "a 42-year-old Mexican-American woman of medium height with shoulder-length wavy brown hair and tired kind brown eyes, wearing a modest olive-green cardigan over a cream blouse and dark jeans"
+  },
+  "KLETI": {
+   "ficha": "a 50-year-old Mexican-American woman, very tall and thin like a rail, sharp angular face, straight black hair in a severe bob, narrow dark eyes with a judging stare, thin lips, dark sunglasses pushed up on her head. Wearing a tailored black blazer over a white blouse, black slacks, heels and a large gold watch. Cold, controlling expression",
+   "scene": "a very tall thin 50-year-old Mexican-American woman with a sharp angular face, straight black hair in a severe bob and a judging stare, wearing a tailored black blazer over a white blouse and black slacks, dark sunglasses on her head"
+  },
+  "ZGERMAN": {
+   "ficha": "a 46-year-old Mexican-American man, tall and soft with a round belly, thinning brown hair, a weak mustache, nervous avoiding eyes, wearing a wrinkled blue polo shirt, khaki pants and sneakers. Weak, ashamed expression",
+   "scene": "a tall soft 46-year-old Mexican-American man with a round belly, thinning brown hair and a weak mustache, wearing a wrinkled blue polo shirt and khaki pants"
+  },
+  "XBEATRIZ": {
+   "ficha": "a 44-year-old Mexican-American woman, short and plump with a round face, long curly dark hair, wide worried eyes, wearing a flowered blouse, a denim jacket, jeans and sandals, a big shoulder bag. Anxious, compliant expression",
+   "scene": "a short plump 44-year-old Mexican-American woman with a round face and long curly dark hair, wearing a flowered blouse and a denim jacket"
+  },
+  "KOTILIA": {
+   "ficha": "a 66-year-old Mexican woman, very small and slim 1.50 m, silver hair in a low bun, serene dark eyes, gentle wrinkles and a calm smile, a gray wool rebozo over her shoulders, a plain brown dress and low shoes. Serene, kind, steady expression",
+   "scene": "a very small slim 66-year-old Mexican woman with silver hair in a low bun, serene dark eyes and a calm smile, wearing a gray wool rebozo over a plain brown dress",
+   "novia": "a very small slim 66-year-old Mexican woman with silver hair in a low bun, wearing a simple cream knee-length dress, holding a small bouquet of yellow flowers, tearful happy smile"
+  },
+  "ZKEVIN": {
+   "ficha": "a 23-year-old Mexican-American young man, tall 1.85 m and broad, short black hair, a thin boyish beard, a round friendly face, big gentle dark eyes, thick forearms with small knife scars. Wearing a spotless clean white butcher apron over a gray t-shirt, jeans and rubber boots. Loyal, earnest, gentle expression",
+   "scene": "a tall broad 23-year-old Mexican-American young man with short black hair, a thin boyish beard and a round friendly face, wearing a spotless clean white butcher apron over a gray t-shirt",
+   "traje": "a tall broad 23-year-old Mexican-American young man with short black hair and a thin boyish beard, wearing a borrowed dark suit slightly too short in the sleeves, a white shirt and a yellow tie"
+  },
+  "XCONSUELA": {
+   "ficha": "a 62-year-old Mexican-American woman, plump and warm, short wavy gray hair, laugh lines, kind brown eyes, wearing a yellow floral blouse and a light cardigan, small gold earrings. Loving, serene expression",
+   "scene": "a plump warm 62-year-old Mexican-American woman with short wavy gray hair, laugh lines and kind brown eyes, wearing a yellow floral blouse and a light cardigan",
+   "hospital": "a frail 62-year-old Mexican-American woman lying in a hospital bed with short gray hair, pale skin, a thin tube at her nose, wearing a light hospital gown, with a calm determined gentle face"
+  },
+  "ZNOTAR": {
+   "ficha": "a 72-year-old Mexican notary, thin and stooped, a white goatee, thick round glasses, a wrinkled brown suit, carrying a worn leather briefcase. Formal, kind expression",
+   "scene": "a thin stooped 72-year-old Mexican notary with a white goatee and thick round glasses, wearing a wrinkled brown suit and carrying a worn leather briefcase"
+  }
+ },
+ "locs": {
+  "KCARNE": "wide shot of a busy neighborhood butcher shop in the Segundo Barrio of El Paso, a long glass display case with red meats and chorizo, a marble counter, a big wooden chopping block, hanging aprons, a cash register, a hand-painted sign with no readable letters, bright fluorescent light, dominant red, white and warm wood palette",
+  "ZPANTEON": "wide shot of a quiet cemetery in El Paso on a Sunday, simple gray headstones with plastic yellow flowers, a small tree, distant mountains and a pale blue sky, dominant gray, yellow and soft blue palette",
+  "KCOCINA": "wide shot of a small modest kitchen in an El Paso home, a formica table with four chairs, a coffee pot on the stove, a fruit bowl, a birthday cake on the table with one lit candle, a window with plain curtains and warm afternoon light, dominant yellow, brown and cream palette",
+  "ZIGLESIA": "wide shot of the inside of a small neighborhood Catholic church in El Paso decorated for a simple wedding, a few wooden pews with yellow flower bunches, a modest altar with candles, soft light through side windows, dominant white, yellow and warm wood palette",
+  "XSALON": "wide shot of a simple banquet hall for a small wedding in El Paso, round tables with white tablecloths and yellow balloons, a long main table at the center with eight chairs set with plates and glasses, a small dance floor, string lights, dominant white, yellow and warm gold palette",
+  "ZBANCO": "wide shot of a small bank branch with a long counter and teller windows, a plant, a waiting chair, fluorescent and soft lights, dominant beige, green and gray palette",
+  "ZOFICINAJ": "wide shot of the office of a notary in Ciudad Juárez, a heavy dark desk with stacks of folders, an old typewriter, a framed diploma with no readable text, a rotary fan, tall file cabinets, a window with a dusty street, dominant brown, beige and old green palette",
+  "XHOSPITAL": "wide shot of a hospital room, a single bed with white sheets and a thin blanket, a monitor on a stand, a chair beside the bed, a window with pale afternoon light, dominant white, pale green and soft gray palette",
+  "ZFONDA": "wide shot of a small neighborhood diner fonda in El Paso, a few wooden tables with oilcloth, a counter with pots, a calendar with no numbers, warm bulbs, dominant orange, brown and yellow palette",
+  "XPORCHE": "wide shot of the front porch of a modern suburban house in El Paso, a clean door, a doormat, a potted plant and a large garage, evening light, dominant gray, white and warm orange palette",
+  "ZPUENTE": "wide shot of an international bridge between Ciudad Juárez and El Paso at morning, a line of cars and pedestrians, a river channel below, distant buildings, dominant gray, sand and blue palette",
+  "XSOTANO": "wide shot of the back room of a butcher shop, a stainless steel table with knives and sharpening stones, hanging aprons, a refrigerator door, a bare bulb, dominant steel, red and warm yellow palette"
+ }
+}

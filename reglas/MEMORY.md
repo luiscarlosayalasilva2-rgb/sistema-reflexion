@@ -1,0 +1,22 @@
+﻿- [Master prompt Reflexión v8.0](master-prompt-reflexion.md) — user's series production rulebook; read before series work
+- [Master prompt Papás Primerizos v8.7](master-prompt-papas-primerizos.md) — proyecto NUEVO distinto del cómic: marionetas de lana, Full-Auto, voz Fish 5099…
+- [Pipeline Papás Primerizos](papas-primerizos-pipeline.md) — scripts, G-Labs webhook/Meta/Veo, estado de videos 1-6 y cómo retomar
+- [Mejoras Papás Primerizos](papas-primerizos-mejoras.md) — reglas nuevas para próximos videos: miniatura cerrada, titular firme, descripción larga, video de "dato"
+- [Flow Connector setup](flow-connector-setup.md) — flow-auto quirks on this machine (PATH, window width, asset names)
+- [3 series nuevas: cobro / lavaplatos / nieta](series-cobro-lavaplatos-nieta.md) — COMPLETAS y en Drive (2026-10-17, con música 0.10); incluye lecciones del pipeline
+- [Lote 2: cumple / regreso / restaurante](series-cumple-regreso-restaurante.md) — COMPLETAS y en Drive (2026-10-18); restaurante\src es la base de la próxima serie
+- [Serie El testamento — progreso](serie-testamento-progreso.md) — dónde quedó la producción y cómo retomar
+- [Gemini API key](gemini-api.md) — GEMINI_API_KEY env var, modelos que funcionan, idea de app sin Claude
+- [Sistema de producción](sistema-produccion.md) — EL MÉTODO de trabajo en el escritorio; leer primero en cualquier serie
+- [Textos editoriales](feedback-textos-editoriales.md) — descripciones SIN preguntas y SIN línea de IA
+- [Hooks brutales](feedback-hooks-brutales.md) — el clip hook de 10 s de LOS 5 capítulos siempre al máximo de agresividad
+- [Volumen de música](feedback-musica-volumen.md) — música a 0.10 (no 0.18) con ducking; reusar pista de El testamento si no hay nueva
+- [Subtítulos CapCut](feedback-subtitulos-capcut.md) — Montserrat ExtraBold, palabra activa amarilla, ~3 palabras, centrados en medio de la pantalla
+- [Banner CAPÍTULO N](feedback-banner-capitulo.md) — próximas series: panel con el número de capítulo en los primeros 5 s (no aplicar a las ya entregadas)
+- [Velocidad del pipeline](velocidad-pipeline.md) — mediciones en la PC del usuario: veryfast sí, Quick Sync casi no ayuda, solapar clips+montaje
+- [Serie Treinta años llamando (IDEA 8)](serie-treinta-anos-llamando.md) — carpeta llamadas, narra Víctor desde su velorio, COMPLETA y en Drive 2026-10-19 (sin música)
+- [Series bondad: mozo y terreno (IDEAS 9 y 10)](series-bondad-mozo-terreno.md) — nombres y físicos raros pedidos por Luis, COMPLETAS y en Drive 2026-10-20
+- [PC nuevo (usuario Luis)](pc-nuevo-luis.md) — proyecto en C:\Users\Luis\calude, Drive en I:, hardware lento (i3-3220), rutas parcheadas, claves pendientes
+- [Lote 7 ideas 2-10](series-lote7-ideas-2-10.md) — cochera y boda COMPLETAS en Drive 2026-10-24; ideas 4-10 pendientes y trampas del flujo
+- [Marca de agua](feedback-marca-agua.md) — 'Reflexiones con Raíces' en todo el video de las series nuevas (poner_marca.py, ya en montar_serie.ps1)
+- [Sin sangre](feedback-sin-sangre.md) — nada de manchas rojas ni sangre en imágenes (cláusula negativa ya en las plantillas)

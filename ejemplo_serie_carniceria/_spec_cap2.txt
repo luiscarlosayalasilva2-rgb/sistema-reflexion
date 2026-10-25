@@ -1,0 +1,90 @@
+1|M|L|KCARNE|t|[L] standing at the marble counter of a butcher shop with a finger raised, customers watching
+2|B|Ra|KCARNE|t|[Ra] standing behind the counter with his hands in his apron and a hurt face
+3|C|F|KCARNE|t|[F] introducing herself from the back room door with a guilty face
+4|G|Ra|KCARNE|t|wide shot of the butcher shop with a line of customers, [Ra] working at the block
+5|D|Ra|KCARNE|t|the clean white apron of [Ra] as he holds a steak on the scale
+6|B|Ra|KCARNE|t|[Ra] sitting down on a stool in the back for a moment
+7|G|Ra|KCARNE|t|wide shot of the shop on a Saturday morning, a line of customers out to the street, [Ra] slicing meat
+8|B|Ra|KCARNE|t|[Ra] weighing meat for a customer without a visible face with a smile
+9|D|Ra|KCARNE|t|a paper bag of groceries held by a customer's hand, a gray cap in the corner of the frame, [Ra] behind the counter
+10|C|Ra|KCARNE|t|[Ra] cutting steak with a calm happy face
+11|B|Ra|KCARNE|t|[Ra] whistling an old song while he wraps meat in paper
+12|C|F|XSOTANO|t|[F] packing meat in the back room, glancing at her father
+13|B|L|KCARNE|t|[L] pushing open the shop door with a stormy face
+14|C|L|KCARNE|t|[L] in dark sunglasses with a furious gaze
+15|G|L G B|KCARNE|t|wide shot of [G] and [B] following [L] into the shop like two shadows, the customers turning
+16|M|L|KCARNE|t|[L] striding up to the counter and demanding a word
+17|B|Ra|KCARNE|t|[Ra] putting his knife down on the chopping block
+18|C|Ra|KCARNE|t|[Ra] asking to talk later at home
+19|B|L|KCARNE|t|[L] insisting on talking right now
+20|M|L|KCARNE|t|[L] raising her voice for the whole shop to hear
+21|C|L|KCARNE|t|[L] with a cold mocking face
+22|B|Ra|KCARNE|t|[Ra] looking around at the silent customers with embarrassment
+23|G|Ra L|KCARNE|t|wide shot of the shop in silence, customers with grocery bags frozen between [L] and [Ra]
+24|D|Ra|KCARNE|t|grocery bags held in many hands, all unmoving, [Ra] nearby
+25|B|L|KCARNE|t|[L] raising her voice
+26|C|L|KCARNE|t|[L] declaring that he already had a wife
+27|B|L|KCARNE|t|[L] jabbing a finger toward the door and the street
+28|G|L|KCARNE|t|[L] listing the bank, the house and the shop
+29|D|Ra|KCARNE|t|a woman customer's hand covering her mouth in shock, [Ra] blurred behind
+30|B|Ra|KCARNE|t|[Ra] standing with his hands in his apron and trembling lips
+31|C|Ra|KCARNE|t|[Ra] speaking in a voice almost too small to hear
+32|B|Ra|KCARNE|t|[Ra] saying Otilia only comes to keep him company
+33|C|L|KCARNE|t|[L] laughing a short ugly laugh
+34|G|L|KCARNE|t|[L] shaking her head with scorn
+35|C|L|KCARNE|t|[L] telling him he does not know the world
+36|B|F|XSOTANO|t|[F] in the back room doorway wanting to speak with her mouth full of words
+37|M|F|XSOTANO|t|[F] opening her mouth and nothing coming out
+38|C|L F|KCARNE|t|[L] glancing at [F] with a warning look
+39|M|F|XSOTANO|t|[F] lowering her eyes
+40|B|F|XSOTANO|t|[F] seen from behind in the back room, hands over her mouth
+41|G|Ra F|KCARNE|t|[Ra] looking at [F] and seeing her silence
+42|M|Ra|KCARNE|t|[Ra] taking off his apron slowly and hanging it on a hook
+43|D|Ra|KCARNE|t|a white butcher apron hanging on a wall hook beside a knife, [Ra] nearby
+44|M|Ra|KCARNE|t|[Ra] returning to his customers with shaking hands
+45|C|Ra|KCARNE|t|[Ra] looking old for the first time
+46|G|Ra|KCOCINA|t|wide shot of a living room two days later, [Ra] sitting alone with a phone in his hand
+47|D|Ra|KCOCINA|t|a phone screen with a family chat showing no new photos, no readable text, in the hand of [Ra]
+48|M|Ra|KCOCINA|t|[Ra] scrolling through photos of his grandchildren on his phone
+49|C|Ra|KCOCINA|t|[Ra] wondering why no messages come
+50|M|B F|KCOCINA|t|[B] shrugging in a kitchen as [F] asks her a question
+51|C|B|KCOCINA|t|[B] saying it was Leticia, so he could rest
+52|G|Ra|KCOCINA|t|[Ra] noticing that a grandson's birthday photo never arrived
+53|D|Ra|KCOCINA|t|a phone screen with a birthday photo missing, no readable text, in the hand of [Ra]
+54|C|Ra|KCOCINA|t|[Ra] staring at his phone, confused and hurted
+55|M|Ra|KCARNE|t|[Ra] receiving a large envelope over the counter
+56|D|Ra|KCARNE|t|a large envelope with a name drawn as scribbled lines on a marble counter, [Ra] nearby
+57|C|Ra|KCARNE|d|a wedding invitation torn in two halves inside a plastic bag, drawn with abstract flourishes and no letters, [Ra] nearby
+58|D|Ra|KCARNE|d|two torn halves of an invitation with golden edges, held in the hand of [Ra]
+59|G|Ra|KCARNE|t|[Ra] looking at the torn halves with a stunned silent face
+60|M|Ra|KCARNE|t|[Ra] standing alone in the shop with the two halves on the counter
+61|C|Ra|KCARNE|t|[Ra] saying nothing, his eyes filling
+62|M|F|XSOTANO|t|[F] watching her father from the back room doorway
+63|C|F|XSOTANO|t|[F] with a knot in her stomach
+64|B|F|XSOTANO|t|[F] seen from behind pressing her back to the wall in the dark
+65|G|F|XSOTANO|t|[F] doing nothing while her father suffers
+66|B|K|XSOTANO|t|[K] sharpening a long knife at a steel table in the back room
+67|C|K|XSOTANO|t|[K] with a round friendly face and a thin boyish beard
+68|D|K|XSOTANO|t|the thick forearms and small knife scars of [K] on a sharpening stone
+69|M|K Ra|XSOTANO|t|[K] learning to cut from [Ra] with an apprentice's careful hands
+70|G|K Ra|KCARNE|t|wide shot of the butcher shop after hours, [K] sweeping the floor while [Ra] counts the day
+71|C|K|XSOTANO|t|[K] telling his aunt he wants to be the ring bearer at his grandfather's wedding
+72|M|K F|XSOTANO|t|[K] speaking earnestly to [F] with an apron over his gray t-shirt
+73|C|F|XSOTANO|t|[F] smiling at her nephew with wet eyes
+74|M|F K|XSOTANO|t|[F] hugging [K] in the back room
+75|G|F|KCOCINA|t|wide shot of her kitchen at night, [F] holding a ringing phone
+76|C|F|KCOCINA|t|[F] hearing the soft voice on the line
+77|B|L|XPORCHE|t|[L] on a phone at night speaking in a soft false voice
+78|M|L|XPORCHE|t|[L] pacing a dark porch with a phone to her ear
+79|C|F|KCOCINA|t|[F] answering quickly that she told no one
+80|D|F|KCOCINA|t|a glass slipping from the hand of [F] and falling
+81|B|F|KCOCINA|t|a broken drinking glass on a kitchen floor beside the foot of [F]
+82|G|F|KCOCINA|t|[F] with her heart in her throat
+83|M|F|KCOCINA|t|[F] sitting on the floor among the broken glass with her phone in her hand
+84|C|L|XPORCHE|t|[L] hanging up the phone with a satisfied tight smile
+85|B|L|XPORCHE|t|[L] also afraid, her eyes shifting
+86|M|L|XPORCHE|t|[L] holding her phone in the dark and looking over her shoulder
+87|B|L|XPORCHE|t|[L] seen from behind walking into her house at night
+88|C|F|KCOCINA|t|[F] understanding that Leticia is also afraid
+89|G|F|KCOCINA|t|wide shot of the dark kitchen with a broken glass on the floor, [F] sitting very small
+90|C|F|KCOCINA|t|[F] afraid that someone will say what she knows

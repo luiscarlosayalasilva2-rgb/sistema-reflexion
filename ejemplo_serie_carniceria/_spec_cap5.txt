@@ -1,0 +1,79 @@
+1|M|Ra|KCARNE|t|[Ra] rising from the floor, wiping his face with his apron, with a calm serious face
+2|D|Ra|KCARNE|t|the thick hand of [Ra] closing around a folded letter
+3|C|F|KCARNE|t|[F] introducing herself with a heavy face
+4|G|F|ZPANTEON|t|wide shot of the cemetery at sunset, [F] standing by a gray headstone
+5|M|F Ra|KCARNE|t|[F] waiting with the others for what [Ra] will do
+6|B|G B|KCARNE|t|[G] and [B] watching from the door of the shop with worried faces
+7|C|Ra|KCARNE|t|[Ra] with a calm quiet face and no rage in him
+8|B|Ra|KCARNE|t|[Ra] saying he will see Leticia, alone
+9|G|F K|XPORCHE|t|wide shot of a suburban street at six in the evening, [F] and [K] in a parked car watching a porch from afar
+10|B|Ra|XPORCHE|t|[Ra] walking up the steps of a modern porch with a calm step
+11|G|L|XPORCHE|t|wide shot of the porch with [L] opening the door and holding a coffee cup
+12|C|L|XPORCHE|t|[L] looking at her father with a hard face
+13|B|Ra|XPORCHE|t|[Ra] not entering, standing on the doormat
+14|M|Ra|XPORCHE|t|[Ra] telling his daughter he knows about the bank
+15|D|L|XPORCHE|t|a coffee cup set down on a small table by the hand of [L]
+16|B|L|XPORCHE|t|[L] saying nothing with a tight jaw
+17|C|Ra|XPORCHE|t|[Ra] saying the sum aloud
+18|B|Ra|XPORCHE|t|[Ra] saying the thirteen coins of her mother
+19|D|Ra|XPORCHE|t|a small velvet pouch lying empty in the thick hand of [Ra]
+20|G|L|XPORCHE|t|[L] with a hardened face
+21|B|L|XPORCHE|t|[L] starting to speak very fast to defend herself
+22|C|L|XPORCHE|t|[L] making excuses with quick lips
+23|D|Ra|XPORCHE|t|a thick hand raised in a calm stop gesture, [Ra] nearby
+24|B|Ra|XPORCHE|t|[Ra] raising one hand and silencing her
+25|C|L|XPORCHE|t|[L] closing her mouth, stunned
+26|B|Ra|XPORCHE|t|[Ra] telling her to keep it, she already collected
+27|M|Ra|XPORCHE|t|[Ra] turning and walking down the steps
+28|B|Ra|XPORCHE|t|[Ra] seen from behind walking to his car
+29|G|L|XPORCHE|t|wide shot of the porch with [L] standing in the doorway, unmoving
+30|C|L|XPORCHE|t|[L] with her mouth open and a lost stare
+31|B|L|XPORCHE|t|[L] expecting a fight and receiving a quiet pardon
+32|C|L|XPORCHE|t|[L] feeling that pardon hurt most
+33|G|Ra|ZIGLESIA|t|wide shot of the church after Sunday mass, parishioners without visible faces whispering at the door, [Ra] nearby
+34|C|Ra|KCARNE|t|wide shot of the butcher shop with customers whispering over the counter, [Ra] nearby
+35|B|Ra|KCARNE|t|[Ra] listening to a customer without a visible face with a calm nod
+36|G|Ra|ZFONDA|t|wide shot of a neighborhood diner with townspeople at tables whispering, [Ra] nearby
+37|M|G|KCARNE|t|[G] entering the shop with his head bowed
+38|B|B G|KCARNE|t|[B] following [G] with a tearful face
+39|C|G|KCARNE|t|[G] asking forgiveness with a quivering voice
+40|B|Ra|KCARNE|t|[Ra] hugging his children one by one
+41|C|Ra|KCARNE|t|[Ra] telling them it is all right
+42|M|G L|ZIGLESIA|t|[G] turning his face from [L] at the church door
+43|C|B L|ZFONDA|t|[B] ignoring a phone call from [L] with a hard face
+44|D|B|ZFONDA|t|a ringing phone face-down on a table under the hand of [B]
+45|B|L|XPORCHE|t|[L] sitting alone on her porch in the evening with a phone
+46|G|L|XPORCHE|t|wide shot of a large clean empty porch at dusk, [L] alone with her money and no family
+47|D|Ra|KCARNE|t|a plastic grocery bag tied in a knot left at the shop door, [Ra] nearby
+48|B|Ra|KCARNE|t|[Ra] picking up a white plastic bag at the front door of the shop
+49|G|Ra|KCARNE|t|wide shot of the shop with [Ra] opening the bag behind the counter
+50|D|Ra|KCARNE|t|thirteen old dark silver coins in a plastic bag, [Ra] nearby
+51|C|Ra|KCARNE|t|thirteen silver coins dull with age in the palm of [Ra]
+52|M|Ra|KCARNE|t|[Ra] holding the coins in his palm with silent moved eyes
+53|C|Ra|KCARNE|t|[Ra] pressing the coins to his chest
+54|M|Ra|KCARNE|t|[Ra] knowing who returned them
+55|C|Ra|KCARNE|t|[Ra] understanding what it cost her
+56|G|Ra|ZIGLESIA|t|wide shot of the small church on a Sunday with yellow flowers for a simple thanksgiving mass, [Ra] nearby
+57|M|Ra O|ZIGLESIA|t|[Ra] and [O] standing before the altar side by side
+58|D|Ra|ZIGLESIA|t|yellow flowers on the altar of a small church, [Ra] nearby
+59|M|Ra|ZIGLESIA|t|[Ra] taking thirteen coins from his pocket
+60|D|Ra O|ZIGLESIA|t|thirteen old silver coins poured into the cupped hands of [O] by the thick hands of [Ra]
+61|G|Ra O|ZIGLESIA|t|[Ra] placing the coins in [O]'s hands with a loving smile
+62|C|Ra|ZIGLESIA|t|[Ra] speaking with the blessing of his late wife
+63|M|O|ZIGLESIA|t|[O] crying with a calm grateful face
+64|C|F|ZIGLESIA|t|[F] crying in the pew
+65|M|F|ZIGLESIA|t|[F] sitting among the guests, wiping her face
+66|C|K|ZIGLESIA|t|[K] standing at the front with the rings and a big smile
+67|G|Ra|ZIGLESIA|t|wide shot of the church with the first pew finally full of guests, [Ra] nearby
+68|M|Ra|ZIGLESIA|t|wide shot of the church interior filled with warm light after the ceremony, [Ra] nearby
+69|C|F|ZPANTEON|t|[F] at the cemetery a month later thinking of her sister
+70|M|F|ZPANTEON|t|[F] sitting by a headstone with a sad quiet face
+71|G|F|ZPANTEON|t|wide shot of the cemetery on a cloudy afternoon, [F] alone
+72|C|F|ZPANTEON|t|[F] carrying her own punishment
+73|B|F|ZPANTEON|t|[F] remembering six years of silence
+74|M|Ra O|ZFONDA|t|[Ra] laughing at a diner table with [O], a coffee and sweet bread
+75|C|F|ZFONDA|t|[F] looking at her father's laugh with a bitter longing
+76|B|F|ZFONDA|t|[F] thinking of all that could have been
+77|M|Ra|ZFONDA|t|[Ra] looking at his daughter with a tender forgiving face
+78|C|F|ZPANTEON|t|[F] speaking to the headstone with wet eyes
+79|G|F|ZPANTEON|t|wide shot of the hillside cemetery at sunset with yellow flowers on a headstone, [F] standing beside it

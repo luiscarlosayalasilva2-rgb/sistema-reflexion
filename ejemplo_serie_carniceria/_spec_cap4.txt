@@ -1,0 +1,89 @@
+1|D|K|KCARNE|d|a folded letter with a red seal drawn as an abstract stamp and no letters, in the hands of [K] over a marble counter
+2|M|Cn|XHOSPITAL|t|[Cn] in a hospital bed dictating a letter to a notary without a visible face
+3|C|F|XSOTANO|t|[F] introducing herself with a heavy face in the back room
+4|G|F K|XSOTANO|t|wide shot of the back room with a steel table, [F] and [K] facing each other
+5|C|K|XSOTANO|t|[K] with the knife still in his hand
+6|D|K|XSOTANO|t|a long knife resting on a sharpening stone beside the hand of [K]
+7|B|K|XSOTANO|t|[K] asking his aunt what paper she means
+8|C|K|XSOTANO|t|[K] with a serious questioning face
+9|B|F|XSOTANO|t|[F] sitting down on a wooden stool and breathing deeply
+10|G|Cn F|XHOSPITAL|t|wide shot of a hospital room with a frail woman in bed, [F] sitting beside her, [Cn] nearby
+11|B|Cn|XHOSPITAL|t|[Cn] weak with a tube under her nose, asking her daughter to stay
+12|C|Cn|XHOSPITAL|t|[Cn] with a soft determined look
+13|B|N|XHOSPITAL|t|[N] entering the hospital room with a worn briefcase and a rumpled suit
+14|C|N|XHOSPITAL|t|[N] thin and stooped with a white goatee and thick glasses
+15|M|Cn N|XHOSPITAL|t|[Cn] dictating in a very low voice while [N] writes
+16|D|N|XHOSPITAL|d|a notary's hand writing on a legal pad with abstract scribbles and no letters, [N] nearby
+17|G|F|XHOSPITAL|t|[F] sitting in a corner of the hospital room listening
+18|B|Cn|XHOSPITAL|t|[Cn] taking her daughter's hand and making her promise
+19|C|Cn|XHOSPITAL|t|[Cn] speaking her last request with calm eyes
+20|B|F|XHOSPITAL|t|[F] promising with tears
+21|D|F Cn|XHOSPITAL|t|a promise sealed by two clasped hands, the young hand of [F] over the frail hand of [Cn]
+22|C|F|XSOTANO|t|[F] saying the promise turned into a row
+23|G|F|ZPANTEON|t|wide shot of a gray headstone three weeks later, [F] standing before it
+24|C|K|XSOTANO|t|[K] standing up from his stool and taking his aunt by the shoulders
+25|B|K|XSOTANO|t|[K] asking where the paper is
+26|C|F|XSOTANO|t|[F] telling him the name of the notary
+27|G|F|ZOFICINAJ|t|wide shot of a notary office in Ciudad Juárez, [F] giving a name and a place
+28|B|K|ZPUENTE|t|wide shot of an international bridge at dawn, [K] walking fast toward the other side with a document folder
+29|D|K|ZPUENTE|d|a credential and a birth certificate drawn as abstract cards in the hand of [K]
+30|C|K|ZPUENTE|t|[K] crossing the bridge with fear in his eyes
+31|G|K|ZOFICINAJ|t|wide shot of the notary's office, [K] standing before a desk
+32|B|K|ZOFICINAJ|t|[K] waiting while a clerk without a visible face brings a sealed envelope
+33|D|K|ZOFICINAJ|d|a large sealed envelope with a red seal, in the hands of [K]
+34|G|K|ZPUENTE|t|wide shot of the bridge in the afternoon, [K] returning with a large envelope
+35|B|K|KCARNE|t|[K] entering the butcher shop and looking around for his aunt
+36|G|Ra|KCARNE|t|wide shot of the butcher shop with a line of customers, [Ra] arranging display cases
+37|C|F K|KCARNE|t|[F] at the register looking at [K] with a trembling chin
+38|D|K|KCARNE|d|a large sealed envelope placed on a marble counter by the hand of [K]
+39|B|K|KCARNE|t|[K] speaking to his grandfather over the counter with a solemn face
+40|C|K|KCARNE|t|[K] telling him it is from his grandmother
+41|M|Ra|KCARNE|t|[Ra] wiping his hands on his apron and looking at the envelope
+42|D|Ra|KCARNE|d|the thick trembling hands of [Ra] tearing open the sealed envelope
+43|G|Ra|KCARNE|t|[Ra] taking out a page folded in three with a red seal
+44|D|Ra|KCARNE|d|a paper folded in three with a red seal drawn as an abstract stamp and no letters, in the hands of [Ra]
+45|C|Ra F|KCARNE|t|[Ra] looking at [F] with a question in his eyes
+46|M|F|KCARNE|t|[F] lowering her head with tears falling
+47|C|Ra|KCARNE|t|[Ra] too nervous to read the page
+48|M|Ra K|KCARNE|t|[Ra] passing the letter to [K] and asking him to read it
+49|C|K|KCARNE|t|[K] clearing his throat and reading aloud before the customers
+50|G|K|KCARNE|t|wide shot of the butcher shop, customers listening silently as [K] reads
+51|D|K|KCARNE|d|the letter in the hands of [K] with lines drawn as wavy scribbles
+52|C|K|KCARNE|t|[K] reading with a steady loving voice
+53|B|Cn|XHOSPITAL|t|[Cn] in a memory declaring her husband a good man
+54|M|Cn|XHOSPITAL|t|[Cn] with her hand on her heart asking he not be left alone
+55|G|K|KCARNE|t|[K] reading the request about a good woman
+56|M|O|ZPANTEON|t|[O] in a memory by the headstone with a serene smile
+57|C|K|KCARNE|t|[K] reading the part about her best friend
+58|M|K|KCARNE|t|[K] reading that the children must not judge
+59|D|K|KCARNE|d|a signature and a thumbprint drawn as abstract marks at the bottom of the letter, [K] nearby
+60|C|K|KCARNE|t|[K] finishing the letter with wet eyes
+61|G|Ra|KCARNE|t|wide shot of the whole shop in total silence, [Ra] nearby
+62|D|Ra|KCARNE|t|a woman's hand covering her mouth in a line of customers, [Ra] nearby
+63|M|Ra|KCARNE|t|[Ra] standing frozen with the letter in his hand
+64|D|Ra|KCARNE|t|a man in the line taking off his gray cap, [Ra] nearby
+65|C|Ra|KCARNE|t|[Ra] with trembling lips
+66|M|Ra|KCARNE|t|[Ra] sinking to the floor between the display cases
+67|G|Ra|KCARNE|t|wide shot of [Ra] sitting on the floor of his shop in his clean white apron, customers around him
+68|C|Ra|KCARNE|t|[Ra] crying as he never has
+69|M|Ra|KCARNE|t|[Ra] remembering his wife's funeral
+70|B|Ra|KCARNE|t|[Ra] seen from behind slumped on the floor
+71|C|Ra|KCARNE|t|[Ra] feeling as if his wife had spoken from beyond
+72|B|Cn|ZPANTEON|t|[Cn] in a memory smiling at a headstone, giving permission
+73|G|F|KCARNE|t|[F] kneeling beside her father and hugging him
+74|C|F|KCARNE|t|[F] begging his forgiveness
+75|M|F|KCARNE|t|[F] confessing she knew for six years
+76|C|F|KCARNE|t|[F] saying she was afraid of Leticia
+77|B|F|KCARNE|t|[F] afraid of being left alone
+78|G|F|KCARNE|t|[F] admitting that because of her fear he suffered
+79|B|Ra|KCARNE|t|[Ra] taking her face between his hard hands
+80|C|Ra|KCARNE|t|[Ra] telling her she kept her promise
+81|M|Ra|KCARNE|t|[Ra] saying the time has come
+82|C|F|KCARNE|t|[F] knowing her guilt is not small
+83|B|F|KCARNE|t|[F] thinking if she had spoken six years earlier
+84|G|F|KCARNE|t|[F] shaking her head with regret
+85|B|F|KCARNE|t|[F] confessing before all the customers
+86|C|F|KCARNE|t|[F] saying her silence cost her father
+87|M|F|KCARNE|t|[F] receiving respectful looks from the customers
+88|C|K|KCARNE|t|[K] taking his aunt's hand without a word
+89|G|K Ra F|KCARNE|t|wide shot of the butcher shop, [Ra] and [F] on the floor with [K] standing beside them, the silent customers around

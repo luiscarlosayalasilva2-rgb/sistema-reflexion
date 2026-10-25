@@ -1,0 +1,89 @@
+1|M|Ra|KCARNE|t|[Ra] cutting steak behind his butcher counter with a warm smile and a gray mustache
+2|G|Ra|KCARNE|t|wide shot of the busy butcher shop with customers in line, [Ra] working behind the glass display case
+3|D|Ra|KCARNE|d|a stack of small wedding invitations drawn as plain cards with abstract flourishes and no letters, on a marble counter beside the hand of [Ra]
+4|C|Ra|XSALON|t|[Ra] looking at a long empty main table with a sad quiet face
+5|B|F|KCOCINA|t|[F] standing in a kitchen with her hands twisting a dish towel and a guilty look
+6|D|F|KCOCINA|t|the hands of [F] clasped tightly together in her lap
+7|G|F|ZPANTEON|t|wide shot of a quiet cemetery, [F] walking alone between the headstones
+8|B|F|KCOCINA|t|[F] introducing herself with a hand on her chest, tired kind eyes
+9|C|F|KCOCINA|t|[F] with dark circles under her eyes and a small worried frown
+10|M|Ra|KCARNE|t|[Ra] presenting himself behind the counter, patting his apron
+11|B|Ra|KCARNE|t|[Ra] seen from behind chopping meat on a big wooden block
+12|G|Rj|ZPUENTE|t|wide shot of an international bridge at morning, [Rj] a young man with a small bundle crossing on foot
+13|D|Ra|KCARNE|t|the strong thick hands of [Ra] slicing meat with a long knife
+14|B|Ra|KCARNE|t|[Ra] joking with a customer without a visible face and laughing with his whole belly
+15|C|Ra|KCARNE|t|[Ra] with a mischievous grin under his gray mustache
+16|B|Ra|KCARNE|t|[Ra] handing a small piece of chorizo to a child without a visible face over the counter
+17|G|Ra|KCARNE|t|[Ra] smiling kindly at the child
+18|D|Ra|KCARNE|t|a small paper-wrapped piece of chorizo in the thick hand of [Ra]
+19|B|C|XHOSPITAL|t|[C] smiling in her yellow blouse beside a hospital window in an early memory
+20|D|F|XHOSPITAL|t|a thin tube and a hospital monitor beside a bed, the hand of [F] holding a frail hand
+21|M|Ra Cn|XHOSPITAL|t|[Ra] sitting beside a hospital bed holding the hand of [Cn], tired and loving
+22|B|Ra Cn|XHOSPITAL|t|[Ra] combing the thin gray hair of [Cn] gently
+23|G|Ra|XHOSPITAL|t|[Ra] humming softly to his wife with wet eyes
+24|B|Ra|KCOCINA|t|[Ra] sitting silent at a kitchen table, a half-empty cup of coffee in front of him
+25|C|Ra|ZPANTEON|t|[Ra] walking up a cemetery path on Sunday with a bouquet of yellow flowers
+26|D|Ra|ZPANTEON|t|a bouquet of yellow flowers in the thick hands of [Ra]
+27|B|Ra|ZPANTEON|t|[Ra] sitting beside a gray headstone telling it everything
+28|C|Ra|ZPANTEON|t|[Ra] talking to the headstone with a tender weary face
+29|M|F Ra|ZPANTEON|t|[F] standing beside [Ra] at the headstone with a hand on his shoulder
+30|C|Ra|ZPANTEON|t|[Ra] saying he has no more will in him, his eyes lowered
+31|M|F|ZPANTEON|t|[F] without an answer, biting her lip
+32|B|F|ZPANTEON|t|[F] seen from behind walking away from the headstone with her head bowed
+33|G|Ra|KCOCINA|t|wide shot of an old family kitchen with four framed school photos of children on the wall, [Ra] standing before them
+34|B|L|KCOCINA|t|[L] as a firm older sibling standing with her arms crossed in the kitchen
+35|C|G L|KCOCINA|t|[G] standing beside [L] with a soft uncertain posture
+36|B|B|KCOCINA|t|[B] standing near the stove with a nervous smile
+37|C|L|KCOCINA|t|[L] with a stern judging stare, sunglasses on her head
+38|M|L|KCOCINA|t|[L] taking charge of a table of papers in the kitchen
+39|D|L|KCOCINA|d|a stack of papers and a checkbook on a kitchen table under the hand of [L]
+40|C|L|KCOCINA|t|[L] giving orders with a hard mouth
+41|G|Ra|ZPANTEON|t|wide shot of the cemetery on a cloudy afternoon, [Ra] kneeling at a grave while a small woman approaches
+42|M|O|ZPANTEON|t|[O] walking up the path in a gray rebozo with a small bunch of flowers
+43|C|O|ZPANTEON|t|[O] with serene dark eyes and a calm gentle face
+44|D|O|ZPANTEON|t|a gray wool rebozo wrapped around the shoulders of [O]
+45|M|O|ZPANTEON|t|[O] standing in front of the headstone crying quietly
+46|C|O|ZPANTEON|t|[O] with tears on her calm face
+47|M|C Cn O|XHOSPITAL|t|[Cn] and [O] young together in a happy memory laughing in a kitchen, [C] nearby
+48|D|O|ZPANTEON|t|a small yellow flower in the hand of [O] near a headstone
+49|G|O Ra|ZPANTEON|t|[O] and [Ra] standing near each other, he offering a handkerchief
+50|D|Ra|ZPANTEON|t|a plain white handkerchief held out in the hand of [Ra]
+51|M|Ra O|ZFONDA|t|[Ra] and [O] having coffee together at a small diner table
+52|C|O|ZFONDA|t|[O] laughing for the first time with a soft face
+53|B|Ra|ZFONDA|t|[Ra] smiling warmly with new light in his eyes
+54|M|Ra O|ZPANTEON|t|[Ra] and [O] walking slowly together between headstones
+55|G|Ra O|ZPANTEON|t|wide shot of the cemetery at golden hour, [Ra] and [O] walking side by side on the path
+56|M|Ra|KCARNE|t|[Ra] telling a joke to a customer without a visible face with a new bounce in his step
+57|C|F|KCARNE|t|[F] watching her father from the back room with a happy hopeful smile
+58|M|F|KCARNE|t|[F] with a soft grateful face
+59|G|Ra L G B F|KCOCINA|t|wide shot of a family kitchen on a Sunday in March, [Ra], [L], [G], [B] and [F] sitting around a table with coffee and sweet bread
+60|M|Ra|KCOCINA|t|[Ra] standing at the head of the table making an announcement with a hand on his chest
+61|C|Ra|KCOCINA|t|[Ra] with a nervous hopeful smile
+62|M|Ra|KCOCINA|t|[Ra] saying he will marry Otilia
+63|G|L Ra|KCOCINA|t|wide shot of the kitchen in sudden silence, every face turned toward [Ra], [L] nearby
+64|D|L|KCOCINA|t|a coffee cup being set down hard on a saucer by the hand of [L]
+65|M|L|KCOCINA|t|[L] with a stony face looking at the cup
+66|C|G|KCOCINA|t|[G] looking up at the ceiling to avoid every gaze
+67|M|B|KCOCINA|t|[B] looking down at the floor with a pale face
+68|C|F|KCOCINA|t|[F] looking at her father with a tight chest
+69|B|F|KCOCINA|t|[F] seen from behind sitting at the kitchen table with her shoulders tense
+70|C|F|KCOCINA|t|[F] remembering six years ago with a frozen face
+71|M|F|KCOCINA|t|[F] swallowing her words
+72|G|Ra|KCOCINA|t|wide shot of the kitchen that afternoon with a birthday cake on the table, the family around it, [Ra] nearby
+73|D|Ra|KCOCINA|t|a store-bought birthday cake with a single lit candle and no writing on it, [Ra] nearby
+74|M|Ra|KCOCINA|t|[Ra] sitting before the cake with a hopeful wait
+75|C|L|KCOCINA|t|[L] picking up a knife and slicing the cake without a song
+76|D|L|KCOCINA|t|a long knife cutting through a birthday cake in the hand of [L]
+77|M|G|KCOCINA|t|[G] imitating his sister and taking a slice without singing
+78|B|B|KCOCINA|t|[B] taking a slice and avoiding her father's eyes
+79|C|Ra|KCOCINA|t|[Ra] with an unblown candle in front of him and a smile fading
+80|M|Ra|KCOCINA|t|[Ra] watching his children rise from the table one by one
+81|C|L|KCOCINA|t|[L] picking up her car keys and calling her children to leave
+82|G|L|XPORCHE|t|wide shot of the family walking out of the kitchen door, [L] leading the grandchildren without a visible face
+83|B|Ra|KCOCINA|t|[Ra] seen from behind sitting alone at the kitchen table with the candle burning
+84|D|Ra|KCOCINA|t|a candle flame being blown out by [Ra] alone at the table
+85|M|F|KCOCINA|t|[F] washing dishes at the sink with a lump in her throat
+86|C|F|KCOCINA|t|[F] looking out the kitchen window with tears she holds back
+87|B|F|KCOCINA|t|[F] seen from behind at the sink, her shoulders shaking
+88|G|F Ra|KCOCINA|t|wide shot of the dark kitchen at night, [F] standing alone at the sink and [Ra] asleep in a chair far behind her
+89|C|F|KCOCINA|t|[F] knowing a big fight is coming and that she will stay silent

@@ -1,0 +1,88 @@
+1|M|Rt|ZIGLESIA|t|[Rt] standing at the altar of a small church in a gray funeral suit with a yellow flower on his lapel, smiling nervously
+2|G|Rt|ZIGLESIA|t|wide shot of a small church with yellow flowers on the pews and an empty first row, [Rt] at the front
+3|C|F|ZIGLESIA|t|[F] introducing herself from the back pew with wet eyes
+4|G|Rt|ZIGLESIA|t|wide shot of the church interior on a bright morning with many guests, the front pew empty, [Rt] nearby
+5|B|Rt|ZIGLESIA|t|[Rt] adjusting his tie in a mirror at home before the wedding
+6|C|Rt|ZIGLESIA|t|[Rt] with his hair combed flat with water and a trembling smile
+7|G|Rt|ZIGLESIA|t|wide shot of the church facade under a clear blue sky, wedding guests arriving, [Rt] nearby
+8|B|Rt|ZIGLESIA|t|[Rt] waiting at the altar with a nervous breath
+9|D|Rt|ZIGLESIA|t|the old gray funeral suit and cheap cologne bottle on a dresser, the hand of [Rt] near them
+10|G|On|ZIGLESIA|t|wide shot of the church door opening, [On] entering in a simple cream dress with yellow flowers
+11|C|On|ZIGLESIA|t|[On] with serene tearful eyes and a calm smile
+12|D|On|ZIGLESIA|t|a small bouquet of yellow flowers in the hands of [On]
+13|M|On Rt|ZIGLESIA|t|[On] walking down the aisle toward [Rt]
+14|B|Rt|ZIGLESIA|t|[Rt] watching her come with a breaking voice
+15|C|Rt|ZIGLESIA|t|[Rt] looking into her eyes with deep love
+16|B|F|ZIGLESIA|t|[F] sitting in the second pew crying softly
+17|G|Rt On|ZIGLESIA|t|wide shot of cousins and neighbors in the pews, the first pew still empty, [Rt] and [On] at the altar
+18|B|Rt|ZIGLESIA|t|[Rt] glancing at the empty front pew from the altar
+19|G|Rt|ZIGLESIA|t|wide shot of half the church filled with customers from the butcher shop, [Rt] nearby
+20|C|F|ZIGLESIA|t|[F] looking at the empty front pew with a heavy face
+21|B|F|ZIGLESIA|t|[F] seen from behind hiding in the very last pew
+22|C|F|ZIGLESIA|t|[F] without the courage to sit up front
+23|G|Rt|XSALON|t|wide shot of the simple banquet hall with white tables and yellow balloons, guests arriving, [Rt] nearby
+24|M|Rt On|XSALON|t|[Rt] entering the hall with [On] on his arm
+25|G|Rt|XSALON|t|wide shot of round tables with white cloths and yellow balloons, [Rt] nearby
+26|B|Rt|XSALON|t|wide shot of the long main table in the center of the hall, [Rt] nearby
+27|D|Rt|XSALON|t|eight plates and eight glasses set empty on a long white table, near the hand of [Rt]
+28|C|Kt|XSALON|t|a single seat at the end of the long main table occupied by a suit sleeve, the hand of [Kt] on his knee
+29|M|Kt|XSALON|t|[Kt] sitting alone at the end of the long main table in a borrowed suit
+30|C|Kt|XSALON|t|[Kt] with a firm loyal face
+31|M|Kt|XSALON|t|[Kt] with his hands on his knees and a steady gaze
+32|D|Kt|XSALON|t|a gold-trimmed place card at the head chair drawn with abstract flourishes and no letters, near [Kt]
+33|M|Kt|XSALON|t|[Kt] staying in his seat while the music plays
+34|C|Kt|XSALON|t|[Kt] not moving, not even for the restroom
+35|G|Kt|XSALON|t|wide shot of the hall with guests dancing, [Kt] sitting still at the long empty main table
+36|D|Kt|XSALON|t|an official wedding photo frame placed on a table, no one in it but [Kt] at the end seat
+37|M|Rt|XSALON|t|[Rt] seeing his grandson sitting alone with a wrinkled face
+38|C|Rt|XSALON|t|[Rt] with a crumpling moved face
+39|M|Rt Kt|XSALON|t|[Rt] walking up to [Kt] and placing a hand on his shoulder
+40|C|Rt|XSALON|t|[Rt] thanking him quietly
+41|M|Kt|XSALON|t|[Kt] answering with a gentle shrug
+42|B|F|XSALON|t|[F] seen from behind walking toward the restrooms to cry
+43|M|Rt On|XSALON|t|[Rt] dancing a slow waltz with [On], eyes closed
+44|G|Rt On|XSALON|t|wide shot of the small dance floor under string lights, [Rt] and [On] swaying together
+45|C|Rt|XSALON|t|[Rt] forgetting everything else for a moment
+46|M|Ra|ZBANCO|t|[Ra] walking into a bank the next day with a hopeful smile
+47|D|Ra|ZBANCO|d|a plastic-covered bank passbook with pencil marks drawn as abstract scribbles, in the hand of [Ra]
+48|G|Ra|ZBANCO|t|wide shot of the bank lobby with a long counter and teller windows, [Ra] in line
+49|D|Ra|ZBANCO|d|a passbook cover worn from use, near the thick fingers of [Ra]
+50|B|Cn|ZBANCO|d|pencil handwriting in a passbook drawn as abstract lines, old and faded, in the hand of [Cn]
+51|C|Cn|ZBANCO|t|[Cn] in a warm memory writing in a passbook with a gentle smile
+52|M|Ra|ZBANCO|t|[Ra] smiling at the teller window with the passbook held out
+53|B|Ra|ZBANCO|t|[Ra] asking the teller without a visible face to update his book
+54|C|Ra|ZBANCO|t|[Ra] waiting with a happy open face
+55|D|Ra|ZBANCO|t|a keyboard clicking under the hand of a teller, [Ra] watching
+56|G|Ra|ZBANCO|t|[Ra] noticing the teller frown
+57|M|Ra|ZBANCO|t|[Ra] asking if he withdrew money yesterday
+58|C|Ra|ZBANCO|t|[Ra] answering that he has withdrawn nothing
+59|D|Ra|ZBANCO|t|a computer screen turned toward [Ra] with abstract zero marks
+60|C|Ra|ZBANCO|t|[Ra] turning pale
+61|D|Ra|ZBANCO|d|the number zero drawn as large round shapes on a bank screen, no readable numbers, [Ra] nearby
+62|M|Ra|ZBANCO|t|[Ra] holding the counter edge with a shaking hand
+63|G|Ra|ZBANCO|t|[Ra] with a stricken disbelieving face
+64|D|L|ZBANCO|d|a withdrawal slip with a signature drawn as a scribble and a morning clock mark, in the hand of [L]
+65|M|L|ZBANCO|t|[L] in a memory signing a withdrawal slip at a bank window with a cold face
+66|C|Cn|ZBANCO|t|[Cn] in a memory adding a second name to the account with a trusting smile
+67|B|L|ZBANCO|t|[L] using her mother's trust to empty the account
+68|M|Ra|ZBANCO|t|[Ra] walking out of the bank without a word
+69|B|Ra|KCOCINA|t|[Ra] seen from behind walking home slowly with the passbook in his hand
+70|G|Ra|KCOCINA|t|[Ra] standing in his bedroom opening a nightstand drawer
+71|D|Ra|KCOCINA|t|an empty wooden nightstand drawer with only dust inside, the hand of [Ra] in it
+72|B|Ra|KCOCINA|t|a small velvet pouch for thirteen coins lying open and empty on a dresser, [Ra] nearby
+73|C|Ra|KCOCINA|t|[Ra] remembering forty years of keeping them
+74|D|Ra|KCOCINA|t|the drawer pulled open to the back, empty, in the hands of [Ra]
+75|C|Ra|KCOCINA|t|[Ra] with a hollow stare
+76|M|Ra|KCOCINA|t|[Ra] sitting on the bed with the passbook on his knees
+77|C|Ra|KCOCINA|t|[Ra] not crying, not shouting, staring at the wall
+78|M|Ra|KCOCINA|t|[Ra] selling his old truck at a small used lot to a lot owner without a visible face
+79|G|Ra|KCOCINA|t|wide shot of a worn old pickup truck in a small used car lot, [Ra] handing over the keys
+80|D|Ra|KCOCINA|d|a few paper bills counted into the thick hand of [Ra], no numbers
+81|M|Ra|KCOCINA|t|[Ra] signing papers with no argument
+82|B|F|KCOCINA|t|[F] seen from behind on a sidewalk watching her father sell his truck
+83|C|F|KCOCINA|t|[F] with a broken heart
+84|M|F K|XSOTANO|t|[F] entering the dim back room at night where [K] sharpens knives
+85|B|K|XSOTANO|t|[K] sharpening knives in silence at the steel table
+86|C|F|XSOTANO|t|[F] telling her nephew she has something to say
+87|B|F|XSOTANO|t|[F] speaking low about a paper from a notary in Juárez
+88|M|K|XSOTANO|t|[K] putting down the knife and standing up straight

@@ -1,0 +1,75 @@
+{
+ "loc": "KCOCINA",
+ "titulo": "No le cantó feliz cumpleaños",
+ "setting": "a small kitchen with a formica table and a birthday cake with one lit candle",
+ "personajes": {
+  "RAMIRO": {
+   "tag": "XRAMIRO",
+   "corto": "the short stocky butcher with a gray mustache in the white apron"
+  },
+  "LETICIA": {
+   "tag": "KLETI",
+   "corto": "the very tall thin woman with a severe black bob and sunglasses on her head"
+  }
+ },
+ "momentos": [
+  "{KLETI} picking up a knife and cutting a birthday cake with a cold face while {XRAMIRO} watches the candle",
+  "{XRAMIRO} looking up at his daughter with a hurt hopeful face, a lit candle in front of him",
+  "{KLETI} slamming her cup down on the table and standing up with a stern face",
+  "{XRAMIRO} sitting small and alone in front of the uneaten cake as {KLETI} leaves"
+ ],
+ "camara": "starting on the first gesture, circling the two and pushing in on their faces",
+ "ambiente": "a cup slamming on a table, a chair scraping, a candle flame flickering",
+ "dialogos": [
+  {
+   "quien": "LETICIA",
+   "texto": "¡Apá, esa señora no es de la familia!"
+  },
+  {
+   "quien": "RAMIRO",
+   "texto": "¡Hija, es solo mi cumpleaños, por favor!"
+  },
+  {
+   "quien": "LETICIA",
+   "texto": "¡Usted ya tuvo su esposa, apá!"
+  },
+  {
+   "quien": "RAMIRO",
+   "texto": "¡Está bien, hija, vete, ya me voy a soplar solo!"
+  }
+ ],
+ "tomas": [
+  {
+   "tags": [
+    "KLETI",
+    "XRAMIRO"
+   ],
+   "shot": "dramatic medium shot from a low angle",
+   "body": "[KLETI] picking up a knife and cutting a birthday cake with a cold face while [XRAMIRO] watches the candle"
+  },
+  {
+   "tags": [
+    "XRAMIRO",
+    "KLETI"
+   ],
+   "shot": "medium close shot",
+   "body": "[XRAMIRO] looking up at his daughter with a hurt hopeful face, a lit candle in front of him"
+  },
+  {
+   "tags": [
+    "KLETI",
+    "XRAMIRO"
+   ],
+   "shot": "medium shot from the side",
+   "body": "[KLETI] slamming her cup down on the table and standing up with a stern face"
+  },
+  {
+   "tags": [
+    "XRAMIRO",
+    "KLETI"
+   ],
+   "shot": "tight two shot from a low angle",
+   "body": "[XRAMIRO] sitting small and alone in front of the uneaten cake as [KLETI] leaves"
+  }
+ ]
+}

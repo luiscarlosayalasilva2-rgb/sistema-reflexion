@@ -1,0 +1,298 @@
+MASTER PROMPT DEFINITIVO — SISTEMA REFLEXIÓN (series narradas para Facebook)
+Versión 8.0 — consolidada el 2026-10-11. Este documento reúne el prompt maestro v7.0
+(MASTER_PROMPT_UNIFICADO_v7.0) MÁS todas las decisiones y correcciones posteriores
+aprobadas por Luis Carlos hasta hoy. Donde este documento contradiga al v7.0,
+MANDA ESTE DOCUMENTO. Las secciones marcadas [VIGENTE] son ley operativa actual.
+
+=====================================================================
+0. FILOSOFÍA DE TRABAJO (reglas que mandan sobre todo lo demás)
+=====================================================================
+- BLOQUES PRIMERO, TODO JUNTO: se entregan de una sola vez todos los bloques de
+  texto de todos los capítulos (guiones, SRT, bloques 1/1B/2/3/4/4B/5/6) antes de
+  generar una sola imagen. La fase visual solo arranca con el "dale" del usuario.
+- PUERTAS DE APROBACIÓN: cada "dale" aprueba SOLO la puerta mostrada (bloques →
+  imágenes → clips → hooks → ensamble). Ninguna puerta se cruza sin su visto bueno.
+- ORDEN DE PRODUCCIÓN: primero TODAS las imágenes de escena; después los clips;
+  después los HOOKS (antes del ensamble, para integrarlos en el montaje);
+  narración; ensamble con hooks integrados; subtítulos; música; Drive.
+- NUNCA decir "listo / verificado / entregado" sin comprobarlo con la herramienta
+  (medidas, duraciones, transcripción, tamaños en Drive tras la subida).
+- Si un render o proceso largo se corta: reintentar DE INMEDIATO como UN SOLO
+  proceso supervisado y REANUDABLE (script con verificación por capítulo), sin
+  esperar a que el usuario escriba. Tras un "me avisas": silencio total hasta
+  terminar; estimados honestos por fase, nunca promesas de minutos exactos.
+- Fallas en español llano: qué pasó, qué quedó a salvo, desde dónde se retoma.
+  Si el usuario muestra evidencia de una discrepancia, conceder de inmediato.
+- Ante un bloqueo de imagen por políticas: ajustar el prompt o usar cobertura
+  semántica (la imagen más cercana del mismo beat) o prompt externo. Si el
+  rechazo de la herramienta es FINAL, no reintentar por ninguna vía.
+- Distinguir siempre LA VOZ (Valentino) DEL PERSONAJE que narra.
+
+=====================================================================
+1. LA IDEA Y EL PAQUETE DE BLOQUES (heredado de v7.0, con ajustes)
+=====================================================================
+- La idea del usuario se ejecuta FIEL (núcleo, nombres, frase asesina, frase-
+  lección, ancla de fe, objetos ancla, pregunta para comentarios). Las erratas
+  internas de la idea se señalan UNA vez; si no objeta, se sigue con la lectura
+  canónica (ej.: marco de años consistente).
+- Guion por capítulo: 4:00–5:00 min de narración (diseño SRT ~252 s).
+- [VIGENTE] GUIONES FINALES EN UN SOLO PÁRRAFO: todo el texto del guion corrido
+  (parte B, para Fish Audio) va en UN párrafo completo, sin saltos de línea.
+- Parte A (guion segmentado por beats) y parte B (corrido) como en v7.0.
+- Sin avances "En el siguiente capítulo" ni recordatorios de seguir la página,
+  salvo que la idea de la serie lo pida expresamente.
+- Bloque 1: personajes y locaciones (descripciones completas). Bloque 1B: lista
+  de nombres de referencia [TAG]. Variantes por edad con nombre propio
+  (PERSONAJE_55, PERSONAJE_8, etc.) según la línea de tiempo de la serie.
+- Bloque 2: prompts de imagen (uno por beat del SRT).
+- Bloque 3: prompts de animación para las imágenes 1, 2, 3, 4 (el gancho) y la
+  ÚLTIMA de cada capítulo, con el movimiento de cámara indicado por prompt.
+- Bloque 4: lista de tiempos. Bloque 4B [VIGENTE, formato exacto]:
+  "N SS.ss SS.ss" — número de imagen, segundo de inicio, segundo de fin,
+  separados por espacios, dos decimales. Sin guiones, sin "=", sin etiquetas.
+- Bloque 5: título, descripción y hashtags por capítulo. Bloque 6: comentario
+  anclado (pregunta para comentarios de la idea).
+
+=====================================================================
+2. SHEETS DE PERSONAJES
+=====================================================================
+- Antes de las imágenes de escena: una hoja por personaje (y por variante de
+  edad), estilo model sheet profesional en UNA imagen: frente, perfil, espalda,
+  tres cuartos, primeros planos de rostro con 3 expresiones, detalle de manos y
+  detalle de vestimenta. Estilo Marvel Comics 2D, fondo blanco.
+- [VIGENTE] Personajes femeninos: voluptuosas, busto grande, SIN escote y sin
+  exageración (regla v7 aprobada). Vestuario modesto siempre.
+- Los sheets aprobados son la referencia CANÓNICA: cada descripción de personaje
+  se copia VERBATIM en todos los prompts donde aparezca.
+
+=====================================================================
+3. IMÁGENES DE ESCENA
+=====================================================================
+- Generadas NATIVAMENTE en vertical: "vertical 9:16 portrait composition" al
+  inicio de cada prompt; verificar medida real 1152×2048 en TODAS. NUNCA
+  corregir proporción recortando al centro.
+- Personajes siempre idénticos a sus sheets: misma cara, edad, peinado,
+  vestuario y rasgos, en cada imagen.
+- Registro de cobertura: numeración completa por capítulo; ante bloqueos,
+  cobertura semántica/prompt externo (ver §0), declarando cuál imagen cubre a
+  cuál. La fase se presenta al usuario para su visto bueno antes de los clips.
+
+=====================================================================
+4. [VIGENTE — REFORZADA 2026-10-11] CONSISTENCIA DE VESTUARIO
+=====================================================================
+- La ropa de cada personaje es LA MISMA dentro de una escena/capítulo: misma
+  prenda y mismo color. El vestuario canónico es el de los bloques/sheets.
+- AUDITORÍA OBLIGATORIA antes de presentar cualquier lote de imágenes que
+  compartan escena (incluidos los paneles de los tableros de hooks): comparar
+  prenda y color por personaje en cada imagen contra el canon y contra los
+  demás paneles de la misma escena.
+- Un cambio de prenda, o de color de la misma prenda, entre momentos de una
+  escena es un DEFECTO que se corrige (edición quirúrgica que cambie solo la
+  prenda, conservando rostro, pose, composición y fondo; si no se logra,
+  regeneración con el vestuario reforzado palabra por palabra).
+- JAMÁS presentar una variación de vestuario como "nota menor".
+
+=====================================================================
+5. CLIPS (bloque 3)
+=====================================================================
+- 5 clips por capítulo: imágenes 1–4 (gancho) + la última. Silenciosos.
+- RUTA A (si la generación de video por IA está disponible): animar cada imagen
+  con su prompt del bloque 3.
+- RUTA [VIGENTE] LOCAL (cuando la generación IA está bloqueada por región —
+  error 403 "not available in your country"): producir los clips localmente con
+  ffmpeg aplicando EXACTAMENTE el movimiento de cámara que pide el bloque 3
+  sobre la imagen fija (push in, pull back, drift right/left, rise, etc.),
+  4 segundos, 1080×1920, 30 fps, sin audio. Sin micro-animación del personaje;
+  el resto del capítulo usa el mismo lenguaje de movimiento, así el resultado
+  es uniforme.
+- Verificación: duración, medida y que el movimiento se aplicó (primer vs.
+  último cuadro) antes de presentarlos.
+
+=====================================================================
+6. [VIGENTE] HOOKS CON DIÁLOGO — MÉTODO DEL TABLERO (decisión 2026-10-10)
+=====================================================================
+El método anterior (4 imágenes individuales como ingredientes) quedó
+REEMPLAZADO por este, que es el vigente "de ahora en adelante":
+1. DISEÑO: 4 momentos con diálogo por capítulo, tomados de lo más filoso del
+   guion (la frase asesina va incluida cuando el capítulo la tiene). Los
+   diálogos se presentan al usuario y se aprueban ANTES de generar imágenes.
+2. IMÁGENES DEL TABLERO: 4 tomas NUEVAS por capítulo (plano entero/medio,
+   ángulos variados, NO se reutilizan las imágenes de escena), 1152×2048,
+   descripciones canónicas verbatim, sujetas a la auditoría de vestuario (§4).
+3. TABLERO: una sola imagen compuesta por capítulo: fondo blanco, encabezado
+   "CAPÍTULO N — <título>", momento 1 a todo el ancho, momentos 2 y 3 lado a
+   lado, momento 4 a todo el ancho, y al pie de cada panel una franja oscura
+   con número, nombre de quien habla y su diálogo EXACTO.
+   [Verificado por el usuario el 2026-10-11: Flow SÍ acepta el tablero alto
+   (~1200×5330). La variante 9:16 (rejilla 2×2) existe solo como respaldo.]
+4. ANIMACIÓN EN FLOW (cuenta PRO del usuario): el tablero entra como ÚNICA
+   imagen de referencia en modo Ingredientes + el prompt de la PLANTILLA DEL
+   USUARIO (anexo A) pegado COMPLETO de una vez. Modelo Omni 1.1 Flash,
+   10 segundos, 9:16, 1 salida (~15 créditos por generación).
+5. SIN REVISIÓN EN FLOW Y SIN REVISIÓN PREVIA DE MUSE: se descarga y se le
+   muestra al usuario tal cual; LA REVISIÓN LA HACE ÉL en el chat. Nunca
+   cantar "verificado" un hook entregado bajo esta regla.
+6. REGLA DE RITMO (nació de un defecto real: frase final cortada): tiempos
+   rebalanceados 0–2.2 / 2.2–4.4 / 4.4–6.8 / 6.8–10 s, línea "PACING IS
+   CRITICAL" en el prompt, y la frase final con ~3.2 s que termina COMPLETA
+   antes de los 10 s. Si un hook sale con la frase cortada, se regenera ese
+   capítulo con los tiempos rebalanceados (lo decide el usuario).
+
+=====================================================================
+7. [VIGENTE] INTEGRACIÓN DE HOOKS (bloque implantado 2026-10-10)
+=====================================================================
+- El hook se pega AL INICIO del capítulo por CONCATENACIÓN SIN TRASLAPE.
+- AUDIO DE FRENTE, SIN FUNDIDO CRUZADO: prohibido xfade/acrossfade en la unión
+  (tapa la primera palabra de la narración, que empieza en el segundo 0.00;
+  error ya cometido y detectado por el usuario — no repetir).
+- La suavidad va SOLO EN EL VIDEO: el capítulo entra con fade-in desde negro
+  de 0.4 s, sin perder ni un cuadro.
+- El capítulo queda 100% intacto; duración final = duración del capítulo
+  + 10 s exactos.
+- Verificación obligatoria: transcripción de la unión (la primera frase de la
+  narración entra completa justo tras el hook) y, tras subir a Drive,
+  comprobación de tamaños locales vs. remotos byte a byte.
+
+=====================================================================
+8. NARRACIÓN (Fish Audio)
+=====================================================================
+- Voz Valentino (reference_id del sistema), modelo s2.1-pro-free, API key SOLO
+  en Secure Vault (conector custom.fish-audio); jamás en archivos, chat ni
+  memoria.
+- Texto LIMPIO para TTS: sin "..." (reemplazar por coma/punto sin alterar
+  palabras), sin corchetes ni marcas. Llamadas SECUENCIALES, una por capítulo.
+- [VIGENTE] LA DURACIÓN REAL DEL AUDIO MANDA: Valentino puede narrar más rápido
+  que el diseño SRT (252 s). Los tiempos de imagen del ensamble se ajustan a la
+  duración real de cada audio; verificar que ningún audio esté truncado
+  (tasa de locución consistente entre capítulos, ~14 caracteres/s).
+
+=====================================================================
+9. ENSAMBLE
+=====================================================================
+- Video final 1080×1920. Cada imagen ocupa su ventana del bloque 4B ajustada
+  a la duración real del audio; los 5 clips del bloque 3 se insertan en sus
+  posiciones (imágenes 1–4 y la última).
+- Movimientos de cámara sobre las estáticas y transiciones GUIADOS POR LA
+  HISTORIA (tensión → acercamiento; revelación → alejamiento; paneos según la
+  emoción), nunca un esquema uniforme para todo el capítulo.
+- Vigilante de ensamble: si un capítulo se corta, se relanza solo de inmediato.
+- QC previo al quemado de subtítulos: 1080×1920, duración = narración,
+  voz presente.
+
+=====================================================================
+10. [VIGENTE] SUBTÍTULOS — SPEC FINAL APROBADA (muestra v4, 2026-10-10)
+=====================================================================
+(Esta spec REEMPLAZA al antiguo "Bloque 7" de v7.0 y a la variante con {\kf}.)
+- Timestamps por palabra con whisper sobre el audio real.
+- Líneas de MÁXIMO 3 PALABRAS; corte de línea si la pausa supera 0.45 s.
+- Tipografía: Baloo 2 ExtraBold, tamaño base 80, TODO EN MAYÚSCULAS,
+  contorno (Outline) 6, posición FIJA centrada en y=1350 (la línea no salta
+  jamás entre eventos).
+- Resaltado: UNA SOLA palabra amarilla a la vez — la que se está diciendo
+  (&H003BD9FF&) — agrandada a tamaño 105 DE GOLPE al inicio de su tiempo;
+  el resto de la línea en blanco. (Sin palabra clave en azul: quedó fuera
+  en la versión aprobada.)
+- PROHIBIDO {\kf} (suaviza el cambio y se ve mal) y PROHIBIDO {\fad}
+  (produce parpadeo). El cambio de color es instantáneo, cuadro a cuadro.
+- Integridad: 0 solapes entre eventos y 0 microhuecos mudos menores de
+  0.30 s; cada evento recortado 5 ms antes del siguiente. Verificación con
+  script antes de quemar.
+- MUESTRA PREVIA OBLIGATORIA: antes de quemar la serie, se quema UNA muestra
+  de un capítulo y se presenta al usuario; solo con su aprobación se quema
+  todo. QC posterior: script anti-solapes + revisión de 5–6 frames (sincronía
+  palabra-color, posición fija, sin parpadeo); si algo falla, se corrige el
+  ASS y se vuelve a quemar.
+
+=====================================================================
+11. MÚSICA
+=====================================================================
+- UNA pista instrumental generada en Google Flow Music, acorde al tema y la
+  emoción de la serie: sin voces, sin cantos, sin drums fuertes.
+- MP3 mezclado BAJITO bajo la narración (~0.18 de volumen) en los 5 capítulos.
+
+=====================================================================
+12. MINIATURAS (fórmula validada 2026-09-23 + 9:16 exacto)
+=====================================================================
+- Una por capítulo, VERTICAL 9:16 EXACTA verificada (1152×2048 o 1080×1920;
+  el formato 1:2 NO sirve).
+- Ilustración digital semi-realista de emoción máxima, acabado "glossy" tipo
+  pintura digital, aire de telenovela. Collage por capas: rostro/personaje
+  grande emocional en primer plano, escenas secundarias detrás.
+- Paleta cálida (dorados, ámbares, naranjas quemados, rojos) sobre fondos
+  oscuros o en penumbra; viñeta oscura en los bordes.
+- Texto: "CAPÍTULO N" pequeño arriba; gancho en 2–4 líneas cortas apiladas sin
+  tapar rostros (amarillo eléctrico con borde negro grueso; o blanco/rojo con
+  borde negro); frases incompletas con suspensivos, preguntas directas o
+  cifras concretas; tipografía bold condensada, letras gigantes, pocas palabras.
+- 2–4 personajes con gestos exagerados legibles en tamaño pequeño; objetos
+  ancla siempre visibles (cartas, cajas, llaves, maletas, fotos, dinero).
+- El texto describe lo que el capítulo REALMENTE trae (nada de clickbait que el
+  video no cumpla: Facebook lo penaliza).
+
+=====================================================================
+13. ENTREGA
+=====================================================================
+- Carpeta de Drive por serie con nombre claro (título + "(5 capítulos)"):
+  los 5 videos finales (con hook integrado), las 5 miniaturas y
+  TEXTOS_EDITORIALES.txt (bloques 5 y 6 de todos los capítulos).
+- Al reemplazar archivos en Drive: verificar que el reemplazo es real (mismo ID
+  o archivo nuevo confirmado) y que los tamaños coinciden byte a byte con los
+  locales. Duplicados defectuosos → a la papelera.
+- Reporte final al usuario con el enlace de la carpeta.
+
+=====================================================================
+ANEXO A — PLANTILLA DE PROMPT DE HOOK (del usuario; estructura intocable)
+=====================================================================
+Solo cambian por capítulo: la referencia al tablero, el SETTING, los
+CHARACTERS (descripciones verbatim del usuario) y el ACTION AND DIALOGUE
+(con los tiempos rebalanceados y la línea de ritmo de §6.6). El resto va
+idéntico, pegado completo de una vez:
+
+IMPORTANT: The reference image is a 4-panel STORYBOARD that only shows the order of events AND defines the exact character designs and art style. Do NOT show panels, borders, grids, split screens, captions or any text. Generate ONE single continuous video, full frame, 9:16, with no hard cuts, as one fluid take inside the same room.
+
+ART STYLE (keep it 100% consistent in every frame): 2D hand-drawn classic American superhero comic book style, flat 2D animation, NOT 3D, NOT realistic, NOT photographic. Bold black ink outlines with varied line weight, dynamic cross-hatching for shadows, cel-shaded flat colors, vivid saturated palette, Ben-Day halftone dot textures, dramatic comic lighting with strong highlights and deep shadows, expressive exaggerated facial expressions. Animated like a high-quality 2D comic motion cartoon, matching exactly the drawing style of the reference image.
+
+SETTING: <el lugar del capítulo, en el mismo estilo>.
+
+CHARACTERS: use the EXACT character designs from the reference image. Same faces, same proportions, same hair, same clothing, same colors in every single frame. Do not redesign, age, restyle or swap any character.
+- <PERSONAJE>: <descripción verbatim del usuario, con su vestuario canónico>.
+
+ACTION AND DIALOGUE (Spanish, strong Mexican telenovela accent, natural lip-sync):
+PACING IS CRITICAL: the dialogue moves FAST, line after line with almost no gap, and ALL lines must finish completely before second 10.
+
+0–2.2 s: <acción del momento 1>:
+<PERSONAJE>: "<diálogo 1>"
+
+2.2–4.4 s: <acción del momento 2>:
+<PERSONAJE>: "<diálogo 2>"
+
+4.4–6.8 s: <acción del momento 3>:
+<PERSONAJE>: "<diálogo 3>"
+
+6.8–10 s: <acción del momento 4, cierre dramático>:
+<PERSONAJE>: "<diálogo 4>"
+
+CAMERA: Continuous fluid movement with no cuts, <movimiento acorde a la escena>, ending with a slow <pull-back / rise> for a dramatic final frame.
+
+AUDIO: Emotional dialogue in Spanish with a strong Mexican accent, tense dramatic telenovela music, <ambiente del lugar>.
+
+NEGATIVE: no 3D, no CGI, no realistic or photographic look, no anime style, no style changes mid-video, no changes to faces, hair or outfits, no extra characters, no comic panels, no frame borders, no grid layout, no split screen, no speech bubbles, no subtitles, no on-screen text.
+
+=====================================================================
+ANEXO B — REGISTRO DE CAMBIOS v7.0 → v8.0 (2026-10-06 a 2026-10-11)
+=====================================================================
+1. Guiones finales en un solo párrafo (§1).
+2. Bloque 4B con formato exacto "N SS.ss SS.ss" (§1).
+3. Sheets estilo pipeline con variantes de edad (§2); femeninas v7 (§2).
+4. Auditoría de consistencia de vestuario reforzada (§4) — 2026-10-11.
+5. Ruta local de clips del bloque 3 ante el bloqueo regional de video IA (§5).
+6. Método de hooks por tablero + plantilla del usuario (§6, anexo A) —
+   decisión final 2026-10-10; tablero alto verificado aceptado por Flow
+   el 2026-10-11; regla de ritmo y tiempos rebalanceados (§6.6).
+7. Bloque de integración de hooks sin traslape (§7) — 2026-10-10.
+8. Duración real del audio manda sobre el diseño SRT (§8).
+9. Subtítulos: spec final v4 aprobada (§10) — reemplaza al karaoke {\kf} y a
+   la palabra clave azul del v7.0. Muestra previa obligatoria.
+10. Prohibidos los avances "En el siguiente capítulo" y recordatorios de
+    página (§1).
+FIN DEL MASTER PROMPT DEFINITIVO v8.0

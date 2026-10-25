@@ -1,0 +1,17 @@
+---
+name: pc-nuevo-luis
+description: "PC nuevo (2026-10-18): usuario Windows Luis, proyecto en C:\\Users\\Luis\\calude, Drive en I:, hardware lento, qué se parcheó y qué falta (claves)"
+metadata:
+  type: project
+---
+
+Desde 2026-10-18 las series se producen en un PC nuevo, usuario Windows **Luis** (el PC anterior era `luisa`). Mapa de rutas: toda ruta `C:\Users\luisa\calude` de las otras notas = `C:\Users\Luis\calude`; `C:\Users\luisa\OneDrive\Escritorio` = `C:\Users\Luis\Desktop` (aquí no hay OneDrive). La carpeta de contexto está en `C:\Users\Luis\calude\CONTEXTO CLAUDE - Sistema de produccion\`. Abrir Claude Code EN `C:\Users\Luis\calude` para que esta memoria se cargue sola (la memoria depende de la carpeta de trabajo).
+
+- **Google Drive**: unidad **I:** (`I:\Mi unidad`); `G:` es un lector de tarjetas vacío. `entregar.py` ahora detecta la unidad solo (G: primero, luego A–Z; `DRIVE_ROOT` fuerza la ruta). `estado.py` copia CONTEXTO.md al escritorio si existe la carpeta de contexto allí; si no, a la del proyecto.
+- **Parcheado 2026-10-18**: `entregar.py` y `estado.py` en las 7 series (idénticos a restaurante\src) y `luisa`→`Luis` + `OneDrive\Escritorio`→`Desktop` en los 31 .ps1/.py de la raíz. NO se tocaron `nieta\src\cuota_y_hooks.ps1`, `testamento\glabs\*.json` ni los logs. Originales sin parchear en `C:\Users\Luis\traslado_extraido\proyecto` (borrable cuando todo funcione).
+- **Software**: Python 3.13.15 (`%LOCALAPPDATA%\Programs\Python\Python313`, también `py -3.13`), paquetes fijados a `requisitos_python.txt` (faster-whisper 1.2.1, pillow 12.1.1, numpy 2.4.2, requests 2.32.5; no subir pillow/numpy sin probar), ffmpeg 9.0.2 build full de Gyan por winget (con libass), G-Labs Studio 3.0.7 en el puerto 8765. Una terminal abierta antes de instalar tiene el PATH viejo: refrescar con `$env:Path = [Environment]::GetEnvironmentVariable('Path','Machine') + ';' + [Environment]::GetEnvironmentVariable('Path','User')`.
+- **Hardware**: Intel i3-3220 (2 núcleos / 4 hilos, 2012), 7.9 GB RAM, Intel HD Graphics. Mucho más lento que el PC anterior (i3-1215U, 6 núcleos), así que las cifras de [[velocidad-pipeline]] (≈14 min por capítulo con veryfast) NO valen aquí: medir con el primer capítulo y avisar a Luis. ctranslate2 solo ofrece int8/float32 en esta CPU; el modelo whisper medium (~1.5 GB) se descarga en la primera transcripción.
+- **Claves**: Luis decidió (2026-10-18) NO usar Gemini en este PC: `GEMINI_API_KEY` no hace falta (era solo para música Lyria; la música se reutiliza de `testamento\audio\musica\musica_serie.mp3` a 0.10). Solo se necesitan `FISH_API_KEY` y `GLABS_API_KEY`, variables de usuario que Luis guarda él mismo (script `calude\guardar_claves.ps1`; yo no las guardo ni las repito). Desde 2026-10-18 están guardadas y validadas (Fish 200 y G-Labs reconocida); revisar de nuevo con `powershell -NoProfile -ExecutionPolicy Bypass -File C:\Users\Luis\calude\comprobar_claves.ps1` (solo imprime estados). La política de ejecución del usuario es la de fábrica (scripts .ps1 bloqueados): lanzarlos siempre con `-ExecutionPolicy Bypass`.
+
+**Why:** evitar redescubrir que las rutas, la letra de Drive y la velocidad son distintas en este PC.
+**How to apply:** al empezar una serie nueva (copiar `restaurante\src`, ver [[sistema-produccion]] y [[series-cumple-regreso-restaurante]]) comprobar claves, G-Labs en 127.0.0.1:8765 y `I:\Mi unidad`; pedir keep-awake en montajes largos.
