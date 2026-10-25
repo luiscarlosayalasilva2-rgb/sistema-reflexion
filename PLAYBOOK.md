@@ -89,7 +89,7 @@ Por capítulo, en este orden: `montaje.py` (ENC_PRESET=ultrafast) → `subs.py` 
 - Salta capítulos sin 5 clips o sin hook; se puede montar la "base" mientras se generan los hooks y luego volver a correr.
 - Subtítulos: Montserrat ExtraBold, MAYÚSCULAS, blanco con contorno negro, palabra activa amarilla, ~3 palabras, tamaño 92, centrados en (540,1440), sombra. 0 solapes.
 - Verificación final: 1080×1920, 30 fps, duración = 10 + capítulo, tamaño ~230–330 MB (un video de ~6 MB indica que el overlay se truncó: el filtro NO debe llevar `shortest=1`).
-- En el PC de Luis (i3-3220) un capítulo tarda ~20–30 min. Pedir keep-awake y no cerrar la sesión.
+- PC actual de Luis: Intel i3-3220 (2 núcleos físicos / 4 hilos, 3,3 GHz), 7,9 GB de RAM, discos C/D/I con espacio de sobra. Con `ENC_PRESET=ultrafast` el montaje de un capítulo tarda ~20–45 min (con `veryfast` hasta ~54 min). Pedir keep-awake y no cerrar la sesión.
 
 ## 10. Miniaturas, textos, entrega
 ```
